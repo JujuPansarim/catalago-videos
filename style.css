@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 body {
     color: seagreen;
     background: darkseagreen;
     margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
+    font-family: "Bebas Neue", sans-serif;
     margin-bottom: 100px;
 }
 
